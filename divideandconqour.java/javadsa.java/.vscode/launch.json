@@ -1,0 +1,371 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "homeworkofsotingalgorithm",
+            "request": "launch",
+            "mainClass": "homeworkofsotingalgorithm",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "toweofHanoi",
+            "request": "launch",
+            "mainClass": "toweofHanoi",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "homeworkrecursion",
+            "request": "launch",
+            "mainClass": "homeworkrecursion",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "homeworkarray",
+            "request": "launch",
+            "mainClass": "homeworkarray",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "stingpemutation",
+            "request": "launch",
+            "mainClass": "stingpemutation",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "quicksort",
+            "request": "launch",
+            "mainClass": "quicksort",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "mergesort",
+            "request": "launch",
+            "mainClass": "mergesort",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "countsubstringsrecursion",
+            "request": "launch",
+            "mainClass": "countsubstringsrecursion",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "lengthofstringrecursion",
+            "request": "launch",
+            "mainClass": "lengthofstringrecursion",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "recursionhomweork",
+            "request": "launch",
+            "mainClass": "recursionhomweork",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "friendspairingrecursion",
+            "request": "launch",
+            "mainClass": "friendspairingrecursion",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "removeduplicatesstringrecursion",
+            "request": "launch",
+            "mainClass": "removeduplicatesstringrecursion",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "tilingproblemrecursion",
+            "request": "launch",
+            "mainClass": "tilingproblemrecursion",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "complexnumbersusingclass",
+            "request": "launch",
+            "mainClass": "complexnumbersusingclass",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "anagram",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "countlowercasevowel",
+            "request": "launch",
+            "mainClass": "countlowercasevowel",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "compressstring",
+            "request": "launch",
+            "mainClass": "compressstring",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "changetoupperCase",
+            "request": "launch",
+            "mainClass": "changetoupperCase",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "Stringbuilder",
+            "request": "launch",
+            "mainClass": "Stringbuilder",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "largeststring",
+            "request": "launch",
+            "mainClass": "largeststring",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "substrings",
+            "request": "launch",
+            "mainClass": "substrings",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "transposetwoD",
+            "request": "launch",
+            "mainClass": "transposetwoD",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "homework",
+            "request": "launch",
+            "mainClass": "homework",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "searchsortedtwoD",
+            "request": "launch",
+            "mainClass": "searchsortedtwoD",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "diagonalsumintwoD",
+            "request": "launch",
+            "mainClass": "diagonalsumintwoD",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "spiralmatrix",
+            "request": "launch",
+            "mainClass": "spiralmatrix",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "twoDarray",
+            "request": "launch",
+            "mainClass": "twoDarray",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "countingsortdescending",
+            "request": "launch",
+            "mainClass": "countingsortdescending",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "insertionsortdescending",
+            "request": "launch",
+            "mainClass": "insertionsortdescending",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "selectionsortdescending",
+            "request": "launch",
+            "mainClass": "selectionsortdescending",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "bubblesortdescending",
+            "request": "launch",
+            "mainClass": "bubblesortdescending",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "countingsort",
+            "request": "launch",
+            "mainClass": "countingsort",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "insertionsort",
+            "request": "launch",
+            "mainClass": "insertionsort",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "selectionsort",
+            "request": "launch",
+            "mainClass": "selectionsort",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "bubblesort",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "rotatedarraydegree",
+            "request": "launch",
+            "mainClass": "rotatedarraydegree",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "checkarrayforrepetition",
+            "request": "launch",
+            "mainClass": "checkarrayforrepetition",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "maxprofitinsellingstocks",
+            "request": "launch",
+            "mainClass": "maxprofitinsellingstocks",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "trappingrainwateralgorithm",
+            "request": "launch",
+            "mainClass": "trappingrainwateralgorithm",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "maxsuarraysumusinfkadanesalgorithm",
+            "request": "launch",
+            "mainClass": "maxsuarraysumusinfkadanesalgorithm",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "prefixapproachmaxsuminsubarray",
+            "request": "launch",
+            "mainClass": "prefixapproachmaxsuminsubarray",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "maxsubarraysum",
+            "request": "launch",
+            "mainClass": "maxsubarraysum",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "printsubarrays",
+            "request": "launch",
+            "mainClass": "printsubarrays",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "alldistinctpairofarray",
+            "request": "launch",
+            "mainClass": "alldistinctpairofarray",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "reversearray",
+            "request": "launch",
+            "mainClass": "reversearray",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "binarysearch",
+            "request": "launch",
+            "mainClass": "binarysearch",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "printarraylength",
+            "request": "launch",
+            "mainClass": "printarraylength",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "largestnumberinarray",
+            "request": "launch",
+            "mainClass": "largestnumberinarray",
+            "projectName": "javadsa.java_788ba33f"
+        },
+        {
+            "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "linearsearch",
+            "projectName": "javadsa.java_788ba33f"
+        }
+    ]
+}

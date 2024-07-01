@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "reverseaqueue",
+            "request": "launch",
+            "mainClass": "reverseaqueue",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "interrleavetwohalvesofqueue",
+            "request": "launch",
+            "mainClass": "interrleavetwohalvesofqueue",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "nonrepeatinglettersusingqueue",
+            "request": "launch",
+            "mainClass": "nonrepeatinglettersusingqueue",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "stackusingtwoqueues",
+            "request": "launch",
+            "mainClass": "stackusingtwoqueues",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "queueusingtwostacks",
+            "request": "launch",
+            "mainClass": "queueusingtwostacks",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "queueusingjcm",
+            "request": "launch",
+            "mainClass": "queueusingjcm",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "circularqueue",
+            "request": "launch",
+            "mainClass": "circularqueue",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "queuelinkedlist",
+            "request": "launch",
+            "mainClass": "queuelinkedlist",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "Queuearray",
+            "request": "launch",
+            "mainClass": "Queuearray",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "maxareahistogram",
+            "request": "launch",
+            "mainClass": "maxareahistogram",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "duplicateparantheses",
+            "request": "launch",
+            "mainClass": "duplicateparantheses",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "vaidparantheses",
+            "request": "launch",
+            "mainClass": "vaidparantheses",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "nextgreaterelement",
+            "request": "launch",
+            "mainClass": "nextgreaterelement",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "pushatbottom",
+            "request": "launch",
+            "mainClass": "pushatbottom",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "reversestack",
+            "request": "launch",
+            "mainClass": "reversestack",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "arraylist",
+            "request": "launch",
+            "mainClass": "arraylist",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "arraylistmostwater",
+            "request": "launch",
+            "mainClass": "arraylistmostwater",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "arrayliststack",
+            "request": "launch",
+            "mainClass": "arrayliststack",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "circularlinkedlist",
+            "request": "launch",
+            "mainClass": "circularlinkedlist",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "doublylinkedlist",
+            "request": "launch",
+            "mainClass": "doublylinkedlist",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "homeworkarraylst",
+            "request": "launch",
+            "mainClass": "homeworkarraylst",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist2",
+            "request": "launch",
+            "mainClass": "linkedlist2",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "linkedliststack",
+            "request": "launch",
+            "mainClass": "linkedliststack",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "reverseastringusingstack",
+            "request": "launch",
+            "mainClass": "reverseastringusingstack",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        },
+        {
+            "type": "java",
+            "name": "stackcollectionframework",
+            "request": "launch",
+            "mainClass": "stackcollectionframework",
+            "projectName": "javaadvancesdsa.java_6bec5970"
+        }
+    ]
+}
